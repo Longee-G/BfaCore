@@ -1,5 +1,7 @@
 # BfaCore - World of Warcraft Battle for Azeroth 8.3.7.35662 Framework
 
+
+PS: Remember: this is try to get a new place for this core affter it was abadoned
 --------------
 
 
